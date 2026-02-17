@@ -60,11 +60,11 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|161265000|77735000|61d3f875-8b25-466e-b4e8-100aff35fb70|d4ff75df-4295-45d4-b215-680d2b86704d",
+          "courtyards_overlap|161225000|78485000|61d3f875-8b25-466e-b4e8-100aff35fb70|d4ff75df-4295-45d4-b215-680d2b86704d",
           "headers"
         ],
         [
-          "courtyards_overlap|198595000|90255000|b97fad7c-a33e-4c3b-92f2-c7b280344873|c873a48c-3a39-4e35-a474-d21424301bbe",
+          "courtyards_overlap|191035000|90315000|b97fad7c-a33e-4c3b-92f2-c7b280344873|c873a48c-3a39-4e35-a474-d21424301bbe",
           "headers"
         ]
       ],
@@ -528,7 +528,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
